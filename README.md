@@ -4,6 +4,7 @@ RMI Chat foi um projeto desenvolvido como requisito avaliativo da disciplina de 
 
 <strong>Objetivo:</strong> 
 	<ul><li>Desenvolver uma sala de bate papo virtual utilizando Java RMI.</ul></li>
+<br>
 
 <strong>Requisitos: </strong>
 <ul>
@@ -13,14 +14,15 @@ RMI Chat foi um projeto desenvolvido como requisito avaliativo da disciplina de 
 	<li>Possuir interface gráfica amigável para o usuário;</li>
 	<li>Possibilidade de conversa individual ou com todos;</li>
 </ul>
-
+<br>
 
 <strong>Observações:</strong>
 <ul>
 	<li>O cliente por padrão se conecta na porta 1090 do socket servidor;</li>
 	<li>O servidor atualiza a lista de clientes online a cada 2 minutos por padrão;</li>
 </ul>
-	
+<br>
+
 <strong>Partes do Projeto: </strong>
 <ul>
 	<li><a href="https://github.com/TommyJando/RMI_Chat_Server">Servidor</a></li>
